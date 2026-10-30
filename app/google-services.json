@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451097558947",
+    "project_id": "calloraai",
+    "storage_bucket": "calloraai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451097558947:android:36b23dccbe98cf3abe2416",
+        "android_client_info": {
+          "package_name": "com.example.calloraai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZCLBGaRQaSQ-bm6UVSJaCnK5D53lERA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
